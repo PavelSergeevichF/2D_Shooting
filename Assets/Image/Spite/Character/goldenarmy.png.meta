@@ -1,0 +1,6768 @@
+fileFormatVersion: 2
+guid: 661da28e67e719f40818bfdc6594b7df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1124821441989764934
+    second: goldenarmy_0
+  - first:
+      213: -7263189307035316242
+    second: goldenarmy_1
+  - first:
+      213: -1787126846637041637
+    second: goldenarmy_2
+  - first:
+      213: -4002488645688315415
+    second: goldenarmy_3
+  - first:
+      213: -3239243445086265448
+    second: goldenarmy_4
+  - first:
+      213: -6688163726052656195
+    second: goldenarmy_5
+  - first:
+      213: 6653108952844684823
+    second: goldenarmy_6
+  - first:
+      213: -4760460893573909441
+    second: goldenarmy_7
+  - first:
+      213: 2911789507667414487
+    second: goldenarmy_8
+  - first:
+      213: 8669524187540327710
+    second: goldenarmy_9
+  - first:
+      213: 8607878961114832052
+    second: goldenarmy_10
+  - first:
+      213: -1787084079436916628
+    second: goldenarmy_11
+  - first:
+      213: -6690319095646748704
+    second: goldenarmy_12
+  - first:
+      213: -1657359425666955160
+    second: goldenarmy_13
+  - first:
+      213: -5041834358466658329
+    second: goldenarmy_14
+  - first:
+      213: 4410447303246889163
+    second: goldenarmy_15
+  - first:
+      213: -4398649941391875208
+    second: goldenarmy_16
+  - first:
+      213: -2610154389375400282
+    second: goldenarmy_17
+  - first:
+      213: -3905595499350746062
+    second: goldenarmy_18
+  - first:
+      213: 7322612275908389353
+    second: goldenarmy_19
+  - first:
+      213: -4191415498634545510
+    second: goldenarmy_20
+  - first:
+      213: -1187386244484501718
+    second: goldenarmy_21
+  - first:
+      213: -5620330721513123594
+    second: goldenarmy_22
+  - first:
+      213: 2554850936226895751
+    second: goldenarmy_23
+  - first:
+      213: 2175683616506967584
+    second: goldenarmy_24
+  - first:
+      213: -3686092005285459376
+    second: goldenarmy_25
+  - first:
+      213: 5225813772488257738
+    second: goldenarmy_26
+  - first:
+      213: -7236415169949308517
+    second: goldenarmy_27
+  - first:
+      213: 6119993675699196329
+    second: goldenarmy_28
+  - first:
+      213: 2110309074440499554
+    second: goldenarmy_29
+  - first:
+      213: -7960800906018172233
+    second: goldenarmy_30
+  - first:
+      213: 1831156325313070434
+    second: goldenarmy_31
+  - first:
+      213: 6436977763240370891
+    second: goldenarmy_32
+  - first:
+      213: 8364568905578256341
+    second: goldenarmy_33
+  - first:
+      213: 3839854989943845999
+    second: goldenarmy_34
+  - first:
+      213: -2266221371319802183
+    second: goldenarmy_35
+  - first:
+      213: 1924790316428631161
+    second: goldenarmy_36
+  - first:
+      213: 8169369313846877138
+    second: goldenarmy_37
+  - first:
+      213: -1222305716620758119
+    second: goldenarmy_38
+  - first:
+      213: 4175557304104344977
+    second: goldenarmy_39
+  - first:
+      213: 8709969139308139722
+    second: goldenarmy_40
+  - first:
+      213: -2256858471903494219
+    second: goldenarmy_41
+  - first:
+      213: -6154230153795338933
+    second: goldenarmy_42
+  - first:
+      213: 6036608392065143734
+    second: goldenarmy_43
+  - first:
+      213: -3175106172588945032
+    second: goldenarmy_44
+  - first:
+      213: -7011727207424043476
+    second: goldenarmy_45
+  - first:
+      213: -8791144086198024414
+    second: goldenarmy_46
+  - first:
+      213: 2406198235500386768
+    second: goldenarmy_47
+  - first:
+      213: -2360012196071038130
+    second: goldenarmy_48
+  - first:
+      213: 1093839609905058678
+    second: goldenarmy_49
+  - first:
+      213: 178147470787399034
+    second: goldenarmy_50
+  - first:
+      213: 3935321081843186883
+    second: goldenarmy_51
+  - first:
+      213: 2544009588761896014
+    second: goldenarmy_52
+  - first:
+      213: -1616288251554820706
+    second: goldenarmy_53
+  - first:
+      213: 5582303599006284213
+    second: goldenarmy_54
+  - first:
+      213: 3875229127434399952
+    second: goldenarmy_55
+  - first:
+      213: 6078018244800511713
+    second: goldenarmy_56
+  - first:
+      213: -8774806536776932261
+    second: goldenarmy_57
+  - first:
+      213: 275484480610347335
+    second: goldenarmy_58
+  - first:
+      213: 2087044881822290740
+    second: goldenarmy_59
+  - first:
+      213: 6072393124131294969
+    second: goldenarmy_60
+  - first:
+      213: 6730979833051157724
+    second: goldenarmy_61
+  - first:
+      213: -2356130434719504005
+    second: goldenarmy_62
+  - first:
+      213: -4667751487206491247
+    second: goldenarmy_63
+  - first:
+      213: 4395010984920434638
+    second: goldenarmy_64
+  - first:
+      213: -4369691731534752236
+    second: goldenarmy_65
+  - first:
+      213: 2333545074805850226
+    second: goldenarmy_66
+  - first:
+      213: -1624905473965829231
+    second: goldenarmy_67
+  - first:
+      213: -2299683020686005731
+    second: goldenarmy_68
+  - first:
+      213: -2482867241734904145
+    second: goldenarmy_69
+  - first:
+      213: -4747445705948254978
+    second: goldenarmy_70
+  - first:
+      213: -3031136793117762631
+    second: goldenarmy_71
+  - first:
+      213: 5255647364023512648
+    second: goldenarmy_72
+  - first:
+      213: -8330035500002164362
+    second: goldenarmy_73
+  - first:
+      213: 2752777914207884301
+    second: goldenarmy_74
+  - first:
+      213: -2849064031623712378
+    second: goldenarmy_75
+  - first:
+      213: -5269396311724961960
+    second: goldenarmy_76
+  - first:
+      213: 6935943420251417028
+    second: goldenarmy_77
+  - first:
+      213: -6618674806472879015
+    second: goldenarmy_78
+  - first:
+      213: 796134876073983558
+    second: goldenarmy_79
+  - first:
+      213: 3606949649030605805
+    second: goldenarmy_80
+  - first:
+      213: 9029769846737463415
+    second: goldenarmy_81
+  - first:
+      213: -515970163372488360
+    second: goldenarmy_82
+  - first:
+      213: 4366466085277863539
+    second: goldenarmy_83
+  - first:
+      213: 2403759747851104191
+    second: goldenarmy_84
+  - first:
+      213: 7028931265126478622
+    second: goldenarmy_85
+  - first:
+      213: 8765192076687400935
+    second: goldenarmy_86
+  - first:
+      213: -7029987551123895386
+    second: goldenarmy_87
+  - first:
+      213: 1279367760243886857
+    second: goldenarmy_88
+  - first:
+      213: 2850462549956332319
+    second: goldenarmy_89
+  - first:
+      213: -6453504543061202536
+    second: goldenarmy_90
+  - first:
+      213: -6419302655065216611
+    second: goldenarmy_91
+  - first:
+      213: -7067039856837514424
+    second: goldenarmy_92
+  - first:
+      213: -545255437995240149
+    second: goldenarmy_93
+  - first:
+      213: 5490545912625642785
+    second: goldenarmy_94
+  - first:
+      213: -3512636185614991906
+    second: goldenarmy_95
+  - first:
+      213: -5566501440946496982
+    second: goldenarmy_96
+  - first:
+      213: -4665341180618136257
+    second: goldenarmy_97
+  - first:
+      213: 1960824889161015032
+    second: goldenarmy_98
+  - first:
+      213: -7917713562705742118
+    second: goldenarmy_99
+  - first:
+      213: -3926635507159079153
+    second: goldenarmy_100
+  - first:
+      213: 5204125775848039165
+    second: goldenarmy_101
+  - first:
+      213: -4463327526675457082
+    second: goldenarmy_102
+  - first:
+      213: 2904448497366747470
+    second: goldenarmy_103
+  - first:
+      213: 2636664690956836358
+    second: goldenarmy_104
+  - first:
+      213: 6206742174277281050
+    second: goldenarmy_105
+  - first:
+      213: -6636146868511157015
+    second: goldenarmy_106
+  - first:
+      213: -798163308493352527
+    second: goldenarmy_107
+  - first:
+      213: 2605438879543795753
+    second: goldenarmy_108
+  - first:
+      213: -8636634253021714871
+    second: goldenarmy_109
+  - first:
+      213: -8011801497730731433
+    second: goldenarmy_110
+  - first:
+      213: 9184171854461205805
+    second: goldenarmy_111
+  - first:
+      213: -861120085996107418
+    second: goldenarmy_112
+  - first:
+      213: -5392767109153564149
+    second: goldenarmy_113
+  - first:
+      213: -2034819797794116569
+    second: goldenarmy_114
+  - first:
+      213: 8989670014675976481
+    second: goldenarmy_115
+  - first:
+      213: -8350652547612529704
+    second: goldenarmy_116
+  - first:
+      213: -7009524700126390493
+    second: goldenarmy_117
+  - first:
+      213: 2858088753524204790
+    second: goldenarmy_118
+  - first:
+      213: -7439150823931877100
+    second: goldenarmy_119
+  - first:
+      213: 8565467597600675332
+    second: goldenarmy_120
+  - first:
+      213: -7178371276798934826
+    second: goldenarmy_121
+  - first:
+      213: 6119256760394179625
+    second: goldenarmy_122
+  - first:
+      213: 5466577670879408229
+    second: goldenarmy_123
+  - first:
+      213: 6184014264555395326
+    second: goldenarmy_124
+  - first:
+      213: 180706939399069437
+    second: goldenarmy_125
+  - first:
+      213: -7491094398443045843
+    second: goldenarmy_126
+  - first:
+      213: 8508483778391607307
+    second: goldenarmy_127
+  - first:
+      213: -3775356564802760353
+    second: goldenarmy_128
+  - first:
+      213: -3683107889088907996
+    second: goldenarmy_129
+  - first:
+      213: 831680443670512384
+    second: goldenarmy_130
+  - first:
+      213: -1495839605579687592
+    second: goldenarmy_131
+  - first:
+      213: 5047217716085331311
+    second: goldenarmy_132
+  - first:
+      213: -5956526795291518
+    second: goldenarmy_133
+  - first:
+      213: 5459665581405009816
+    second: goldenarmy_134
+  - first:
+      213: 4021268452355467240
+    second: goldenarmy_135
+  - first:
+      213: 2140313772149745306
+    second: goldenarmy_136
+  - first:
+      213: 3956572617232064499
+    second: goldenarmy_137
+  - first:
+      213: 4387357337913248512
+    second: goldenarmy_138
+  - first:
+      213: 4650582478609964637
+    second: goldenarmy_139
+  - first:
+      213: 4033132436033051162
+    second: goldenarmy_140
+  - first:
+      213: 5248599536987192490
+    second: goldenarmy_141
+  - first:
+      213: 8685031361492766017
+    second: goldenarmy_142
+  - first:
+      213: 2299202719277884955
+    second: goldenarmy_143
+  - first:
+      213: -7259502533586911914
+    second: goldenarmy_144
+  - first:
+      213: -6749009379288131397
+    second: goldenarmy_145
+  - first:
+      213: 3612785114517483115
+    second: goldenarmy_146
+  - first:
+      213: 6534243847828419184
+    second: goldenarmy_147
+  - first:
+      213: -5017315249079624916
+    second: goldenarmy_148
+  - first:
+      213: -2095252499078844513
+    second: goldenarmy_149
+  - first:
+      213: -2356924971151642205
+    second: goldenarmy_150
+  - first:
+      213: -7996886647149451268
+    second: goldenarmy_151
+  - first:
+      213: -5997946284968132157
+    second: goldenarmy_152
+  - first:
+      213: 6924347509914879845
+    second: goldenarmy_153
+  - first:
+      213: -6204691800548245543
+    second: goldenarmy_154
+  - first:
+      213: -3096953915862392398
+    second: goldenarmy_155
+  - first:
+      213: 7419134985288205802
+    second: goldenarmy_156
+  - first:
+      213: -5145657139963223332
+    second: goldenarmy_157
+  - first:
+      213: -519657888253934823
+    second: goldenarmy_158
+  - first:
+      213: 5875142065919377836
+    second: goldenarmy_159
+  - first:
+      213: -6651242490798906231
+    second: goldenarmy_160
+  - first:
+      213: 5109640709065639270
+    second: goldenarmy_161
+  - first:
+      213: -7562944033116153589
+    second: goldenarmy_162
+  - first:
+      213: -8453723503311243352
+    second: goldenarmy_163
+  - first:
+      213: 1252068144504908613
+    second: goldenarmy_164
+  - first:
+      213: 1043971258385753042
+    second: goldenarmy_165
+  - first:
+      213: 6099558231316536051
+    second: goldenarmy_166
+  - first:
+      213: 4680600149221034697
+    second: goldenarmy_167
+  - first:
+      213: -2114175502917865914
+    second: goldenarmy_168
+  - first:
+      213: -2527647133561299773
+    second: goldenarmy_169
+  - first:
+      213: -8273904790334132742
+    second: goldenarmy_170
+  - first:
+      213: 8978022595665011921
+    second: goldenarmy_171
+  - first:
+      213: -6624768285338491885
+    second: goldenarmy_172
+  - first:
+      213: 4352427081700933065
+    second: goldenarmy_173
+  - first:
+      213: -1130226067409297755
+    second: goldenarmy_174
+  - first:
+      213: 2615189686994220451
+    second: goldenarmy_175
+  - first:
+      213: -96274906397315862
+    second: goldenarmy_176
+  - first:
+      213: -4933570492007264705
+    second: goldenarmy_177
+  - first:
+      213: 5491302046636713833
+    second: goldenarmy_178
+  - first:
+      213: -8321603124066615452
+    second: goldenarmy_179
+  - first:
+      213: 2875257100402157791
+    second: goldenarmy_180
+  - first:
+      213: -3776008376947751092
+    second: goldenarmy_181
+  - first:
+      213: 7166188660102513087
+    second: goldenarmy_182
+  - first:
+      213: 1410312148031736674
+    second: goldenarmy_183
+  - first:
+      213: 4397834277180925101
+    second: goldenarmy_184
+  - first:
+      213: -3860226202271769349
+    second: goldenarmy_185
+  - first:
+      213: 3135797728729937067
+    second: goldenarmy_186
+  - first:
+      213: 7827714609979737203
+    second: goldenarmy_187
+  - first:
+      213: 6073266029762588978
+    second: goldenarmy_188
+  - first:
+      213: 4917032422764994977
+    second: goldenarmy_189
+  - first:
+      213: 2178851031871833607
+    second: goldenarmy_190
+  - first:
+      213: -7876638909801545343
+    second: goldenarmy_191
+  - first:
+      213: -1489774620678643166
+    second: goldenarmy_192
+  - first:
+      213: -3315064582196114784
+    second: goldenarmy_193
+  - first:
+      213: -5884332463513248671
+    second: goldenarmy_194
+  - first:
+      213: 896153929233374652
+    second: goldenarmy_195
+  - first:
+      213: -7417950718942095557
+    second: goldenarmy_196
+  - first:
+      213: -7602837201754785135
+    second: goldenarmy_197
+  - first:
+      213: 3461923396715634803
+    second: goldenarmy_198
+  - first:
+      213: -5859952773951699590
+    second: goldenarmy_199
+  - first:
+      213: 7780603473355195736
+    second: goldenarmy_200
+  - first:
+      213: -5366161781005780525
+    second: goldenarmy_201
+  - first:
+      213: -4847798718948666059
+    second: goldenarmy_202
+  - first:
+      213: -4122558726730818560
+    second: goldenarmy_203
+  - first:
+      213: -5908568207186506898
+    second: goldenarmy_204
+  - first:
+      213: -3172676670885866153
+    second: goldenarmy_205
+  - first:
+      213: 4142800773202299432
+    second: goldenarmy_206
+  - first:
+      213: -6694930358471132076
+    second: goldenarmy_207
+  - first:
+      213: -4021630834826146639
+    second: goldenarmy_208
+  - first:
+      213: 1611133947982591878
+    second: goldenarmy_209
+  - first:
+      213: -2031706105380115183
+    second: goldenarmy_210
+  - first:
+      213: 6678542463607800941
+    second: goldenarmy_211
+  - first:
+      213: -427725586421918040
+    second: goldenarmy_212
+  - first:
+      213: -3005855707412357840
+    second: goldenarmy_213
+  - first:
+      213: -3715305382334342297
+    second: goldenarmy_214
+  - first:
+      213: 3838844156690010224
+    second: goldenarmy_215
+  - first:
+      213: -7044387200120937188
+    second: goldenarmy_216
+  - first:
+      213: 1285334976873447713
+    second: goldenarmy_217
+  - first:
+      213: -942260517011173571
+    second: goldenarmy_218
+  - first:
+      213: -5084271884775150666
+    second: goldenarmy_219
+  - first:
+      213: 3027534598166160114
+    second: goldenarmy_220
+  - first:
+      213: -5237392430837244543
+    second: goldenarmy_221
+  - first:
+      213: 7745547053129847918
+    second: goldenarmy_222
+  - first:
+      213: -2942153415047481150
+    second: goldenarmy_223
+  - first:
+      213: 645863885081149018
+    second: goldenarmy_224
+  - first:
+      213: 447317299718018308
+    second: goldenarmy_225
+  - first:
+      213: 5582796038184677825
+    second: goldenarmy_226
+  - first:
+      213: 6355721222917557766
+    second: goldenarmy_227
+  - first:
+      213: 1428042954452333711
+    second: goldenarmy_228
+  - first:
+      213: -3587821237257985215
+    second: goldenarmy_229
+  - first:
+      213: -4477791310295361040
+    second: goldenarmy_230
+  - first:
+      213: 4080535275113194448
+    second: goldenarmy_231
+  - first:
+      213: 6324632945092184637
+    second: goldenarmy_232
+  - first:
+      213: -8520940096520331097
+    second: goldenarmy_233
+  - first:
+      213: 211894588649764129
+    second: goldenarmy_234
+  - first:
+      213: -4150115785022871149
+    second: goldenarmy_235
+  - first:
+      213: 1264335522513903111
+    second: goldenarmy_236
+  - first:
+      213: 2507503084184761043
+    second: goldenarmy_237
+  - first:
+      213: -7946668120992386161
+    second: goldenarmy_238
+  - first:
+      213: -4523910941764342975
+    second: goldenarmy_239
+  - first:
+      213: -7260208775243106876
+    second: goldenarmy_240
+  - first:
+      213: -4378641482505373562
+    second: goldenarmy_241
+  - first:
+      213: 8378983462969877044
+    second: goldenarmy_242
+  - first:
+      213: -7112695399559886741
+    second: goldenarmy_243
+  - first:
+      213: 4038153531648210188
+    second: goldenarmy_244
+  - first:
+      213: 8437922743545267650
+    second: goldenarmy_245
+  - first:
+      213: -3057659184257152853
+    second: goldenarmy_246
+  - first:
+      213: -7631810509321898927
+    second: goldenarmy_247
+  - first:
+      213: 8004819312967863821
+    second: goldenarmy_248
+  - first:
+      213: -236091135325816145
+    second: goldenarmy_249
+  - first:
+      213: -1113914144506741492
+    second: goldenarmy_250
+  - first:
+      213: 8907238936277809100
+    second: goldenarmy_251
+  - first:
+      213: 5353699105942343712
+    second: goldenarmy_252
+  - first:
+      213: -2505227689767029904
+    second: goldenarmy_253
+  - first:
+      213: -6088792682519585729
+    second: goldenarmy_254
+  - first:
+      213: -7545025898435360455
+    second: goldenarmy_255
+  - first:
+      213: 4024797266669244468
+    second: goldenarmy_256
+  - first:
+      213: 309089107979966353
+    second: goldenarmy_257
+  - first:
+      213: -8352960404788894083
+    second: goldenarmy_258
+  - first:
+      213: -9057689817734781992
+    second: goldenarmy_259
+  - first:
+      213: -3759494988952380249
+    second: goldenarmy_260
+  - first:
+      213: 8091174903645194363
+    second: goldenarmy_261
+  - first:
+      213: 6161932338823410076
+    second: goldenarmy_262
+  - first:
+      213: 1824054898349916473
+    second: goldenarmy_263
+  - first:
+      213: -2515281497221722388
+    second: goldenarmy_264
+  - first:
+      213: 8644028940117434791
+    second: goldenarmy_265
+  - first:
+      213: 2279001581344065580
+    second: goldenarmy_266
+  - first:
+      213: 1272207725126991307
+    second: goldenarmy_267
+  - first:
+      213: -648998102092909274
+    second: goldenarmy_268
+  - first:
+      213: -529309726988398168
+    second: goldenarmy_269
+  - first:
+      213: -4852936405779830682
+    second: goldenarmy_270
+  - first:
+      213: -7020766382773096367
+    second: goldenarmy_271
+  - first:
+      213: -8067953663425129419
+    second: goldenarmy_272
+  - first:
+      213: 3485354601772687319
+    second: goldenarmy_273
+  - first:
+      213: -8513242313090516726
+    second: goldenarmy_274
+  - first:
+      213: 4760933108597330224
+    second: goldenarmy_275
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goldenarmy_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 607
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647ea85542b2c9f00800000000000000
+      internalID: 1124821441989764934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 607
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef8eb9aec7f33b90800000000000000
+      internalID: -7263189307035316242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 607
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1892a10a99d237e0800000000000000
+      internalID: -1787126846637041637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 607
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1b63868cd4478c0800000000000000
+      internalID: -4002488645688315415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 607
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fde9abf35eb03d0800000000000000
+      internalID: -3239243445086265448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 607
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb7afcc68ede23a0800000000000000
+      internalID: -6688163726052656195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 607
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e474ac757945c50800000000000000
+      internalID: 6653108952844684823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 607
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34736f0a027fedb0800000000000000
+      internalID: -4760460893573909441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 607
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddc9314121c86820800000000000000
+      internalID: 2911789507667414487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 607
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d8ff1c056505870800000000000000
+      internalID: 8669524187540327710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_10
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 607
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcdec20f44557770800000000000000
+      internalID: 8607878961114832052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_11
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 607
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6818658f700337e0800000000000000
+      internalID: -1787084079436916628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 607
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef76f5ba363723a0800000000000000
+      internalID: -6690319095646748704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_13
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 607
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868c9f72260eff8e0800000000000000
+      internalID: -1657359425666955160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_14
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 607
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef3c3f1d5ec70ab0800000000000000
+      internalID: -5041834358466658329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_15
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 607
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc04c9a647e053d30800000000000000
+      internalID: 4410447303246889163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_16
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 607
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8736b00fe2bd4f2c0800000000000000
+      internalID: -4398649941391875208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_17
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 607
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a64a5c796ed6cbd0800000000000000
+      internalID: -2610154389375400282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_18
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 607
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c95d806998cc9c0800000000000000
+      internalID: -3905595499350746062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_19
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 607
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e92f6d61152f9560800000000000000
+      internalID: 7322612275908389353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_20
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 607
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9632d1afc915d5c0800000000000000
+      internalID: -4191415498634545510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_21
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 607
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fe05e608e858fe0800000000000000
+      internalID: -1187386244484501718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_22
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 607
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0deff8cf29002b0800000000000000
+      internalID: -5620330721513123594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_23
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 607
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787d0ebe367a47320800000000000000
+      internalID: 2554850936226895751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 553
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026f881d8b4913e10800000000000000
+      internalID: 2175683616506967584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 553
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a8d87d9de58dcc0800000000000000
+      internalID: -3686092005285459376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 553
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0b18340f1d58840800000000000000
+      internalID: 5225813772488257738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_27
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 553
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b996ceb3eb6139b90800000000000000
+      internalID: -7236415169949308517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_28
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 553
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a110bba2d59ee450800000000000000
+      internalID: 6119993675699196329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_29
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 553
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2613f4c1ce2594d10800000000000000
+      internalID: 2110309074440499554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_30
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 553
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2dd2d01cd858190800000000000000
+      internalID: -7960800906018172233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 553
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265ce7ad9f2996910800000000000000
+      internalID: 1831156325313070434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_32
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 553
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2e70dcb2db45950800000000000000
+      internalID: 6436977763240370891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_33
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 553
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7154c2a1be41470800000000000000
+      internalID: 8364568905578256341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_34
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 553
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f643d98d4c7e94530800000000000000
+      internalID: 3839854989943845999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_35
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 573
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6a5147ba3cc80e0800000000000000
+      internalID: -2266221371319802183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_36
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 553
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c17d5489a36ba10800000000000000
+      internalID: 1924790316428631161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_37
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 577
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbd1d69b1e6f5170800000000000000
+      internalID: 8169369313846877138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_38
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 553
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993f3e14d6f790fe0800000000000000
+      internalID: -1222305716620758119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_39
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 553
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d5d6abe3f82f930800000000000000
+      internalID: 4175557304104344977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_40
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 498
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac49319e8c600e870800000000000000
+      internalID: 8709969139308139722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_41
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 498
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf7cd95d270ea0e0800000000000000
+      internalID: -2256858471903494219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_42
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 498
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4df7091848c79aa0800000000000000
+      internalID: -6154230153795338933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_43
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 498
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b35f29695756c350800000000000000
+      internalID: 6036608392065143734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_44
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 498
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8719faa22c1cfe3d0800000000000000
+      internalID: -3175106172588945032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_45
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 498
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c265c8b214751be90800000000000000
+      internalID: -7011727207424043476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_46
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 498
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22704e4f7059ff580800000000000000
+      internalID: -8791144086198024414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_47
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 522
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d91c2eeb88846120800000000000000
+      internalID: 2406198235500386768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_48
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 498
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43a89b596d8f3fd0800000000000000
+      internalID: -2360012196071038130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_49
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 520
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67394ad64591e2f00800000000000000
+      internalID: 1093839609905058678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_50
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 498
+        width: 78
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dcae94e28e87200800000000000000
+      internalID: 178147470787399034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_51
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 532
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc7e587ca11d9630800000000000000
+      internalID: 3935321081843186883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_52
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 532
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4427530e332e4320800000000000000
+      internalID: 2544009588761896014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_53
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 498
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d007f066ac199e0800000000000000
+      internalID: -1616288251554820706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_54
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 533
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b977270c83587d40800000000000000
+      internalID: 5582303599006284213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 498
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d079fb0c5497c530800000000000000
+      internalID: 3875229127434399952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_56
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 498
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee7da31465795450800000000000000
+      internalID: 6078018244800511713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_57
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 498
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54a2aa12ff993680800000000000000
+      internalID: -8774806536776932261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_58
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 498
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749a9efeca7b2d300800000000000000
+      internalID: 275484480610347335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_59
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 498
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433905b234ca6fc10800000000000000
+      internalID: 2087044881822290740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_60
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 521
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fece5c9f59754450800000000000000
+      internalID: 6072393124131294969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_61
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 519
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd41553fe7e396d50800000000000000
+      internalID: 6730979833051157724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_62
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 519
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79ae0a5ad75d4fd0800000000000000
+      internalID: -2356130434719504005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_63
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 439
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b7141d0c0d83fb0800000000000000
+      internalID: -4667751487206491247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_64
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 474
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec74f1c74373efc30800000000000000
+      internalID: 4395010984920434638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_65
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 439
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416d8e3958cbb53c0800000000000000
+      internalID: -4369691731534752236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_66
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 439
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2704a23c1ea626020800000000000000
+      internalID: 2333545074805850226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_67
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 439
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193ddae941d2379e0800000000000000
+      internalID: -1624905473965829231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_68
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 439
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a63081a72e510e0800000000000000
+      internalID: -2299683020686005731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_69
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 439
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6efeff5651b8dd0800000000000000
+      internalID: -2482867241734904145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_70
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 439
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc2082984fad1eb0800000000000000
+      internalID: -4747445705948254978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_71
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 439
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb5994752d3fe5d0800000000000000
+      internalID: -3031136793117762631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_72
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 439
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ee6559e6fcfe840800000000000000
+      internalID: 5255647364023512648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_73
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 460
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6714affd8d4c56c80800000000000000
+      internalID: -8330035500002164362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_74
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 439
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04d6e99de4d33620800000000000000
+      internalID: 2752777914207884301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_75
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 439
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681f9b4bb571678d0800000000000000
+      internalID: -2849064031623712378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_76
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 439
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f41e219f75fd6b0800000000000000
+      internalID: -5269396311724961960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_77
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 439
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c92b42eacb614060800000000000000
+      internalID: 6935943420251417028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_78
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 439
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9545b5ca45eb524a0800000000000000
+      internalID: -6618674806472879015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_79
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 439
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e70b1a3707c0b00800000000000000
+      internalID: 796134876073983558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_80
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 439
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb603968957e0230800000000000000
+      internalID: 3606949649030605805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_81
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 414
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778e15675df205d70800000000000000
+      internalID: 9029769846737463415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_82
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 382
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8598b71ced7e6d8f0800000000000000
+      internalID: -515970163372488360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_83
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 382
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e07c025cdc89c30800000000000000
+      internalID: 4366466085277863539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_84
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 382
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf2c0841cedb5120800000000000000
+      internalID: 2403759747851104191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_85
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 382
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e133088aeb7cb8160800000000000000
+      internalID: 7028931265126478622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_86
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 382
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef5507f0c734a970800000000000000
+      internalID: 8765192076687400935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_87
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 382
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab87d79197707e90800000000000000
+      internalID: -7029987551123895386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_88
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 382
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b8c66133a31c110800000000000000
+      internalID: 1279367760243886857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_89
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 406
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b83b73690ee8720800000000000000
+      internalID: 2850462549956332319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_90
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 382
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899a77a6fcb8076a0800000000000000
+      internalID: -6453504543061202536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_91
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 404
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99ad130f3e0ae6a0800000000000000
+      internalID: -6419302655065216611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_92
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 382
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b2ca761b4dced90800000000000000
+      internalID: -7067039856837514424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_93
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 416
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25917a611dde68f0800000000000000
+      internalID: -545255437995240149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_94
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 416
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d3609da66523c40800000000000000
+      internalID: 5490545912625642785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_95
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 382
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd3c3bfffb904fc0800000000000000
+      internalID: -3512636185614991906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_96
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 417
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a1faa9e60dfb2b0800000000000000
+      internalID: -5566501440946496982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_97
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 382
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35214d0ae0614fb0800000000000000
+      internalID: -4665341180618136257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_98
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 417
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fedf2909df363b10800000000000000
+      internalID: 1960824889161015032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_99
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 382
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6b1ade671ae1290800000000000000
+      internalID: -7917713562705742118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_100
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 382
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07e8597fc9c189c0800000000000000
+      internalID: -3926635507159079153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_101
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 382
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df260eb02d4c83840800000000000000
+      internalID: 5204125775848039165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_102
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 382
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb594023431f02c0800000000000000
+      internalID: -4463327526675457082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_103
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 405
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4946f9158cae4820800000000000000
+      internalID: 2904448497366747470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_104
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 403
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e1c481190579420800000000000000
+      internalID: 2636664690956836358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_105
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 403
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15ab3e6f17c22650800000000000000
+      internalID: 6206742174277281050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_106
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 403
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e45219359ba7e3a0800000000000000
+      internalID: -6636146868511157015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_107
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 325
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1d08423ba5ce4f0800000000000000
+      internalID: -798163308493352527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_108
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 325
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92023335bd0682420800000000000000
+      internalID: 2605438879543795753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_109
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 325
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9466badd7e2842880800000000000000
+      internalID: -8636634253021714871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_110
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 325
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75231d47cfc50d090800000000000000
+      internalID: -8011801497730731433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_111
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 325
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dfc4d44abb47f70800000000000000
+      internalID: 9184171854461205805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_112
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 325
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6698f3d18dfac04f0800000000000000
+      internalID: -861120085996107418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_113
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 325
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0add76e2ea0925b0800000000000000
+      internalID: -5392767109153564149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_114
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 325
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cac82cc2ed2c3e0800000000000000
+      internalID: -2034819797794116569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_115
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 325
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1210eb0cf39b1cc70800000000000000
+      internalID: 8989670014675976481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_116
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 362
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db28d860c58c1c80800000000000000
+      internalID: -8350652547612529704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_117
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 325
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327d3ac5c6a29be90800000000000000
+      internalID: -7009524700126390493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_118
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 325
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4695a1498f9a720800000000000000
+      internalID: 2858088753524204790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_119
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 325
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4196cfc6db3d2c890800000000000000
+      internalID: -7439150823931877100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_120
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 325
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4065b12f567aed670800000000000000
+      internalID: 8565467597600675332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_121
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 325
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0488c3b5d416c90800000000000000
+      internalID: -7178371276798934826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_122
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 276
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924e3b43a97fbe450800000000000000
+      internalID: 6119256760394179625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_123
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 276
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56079d1bd6f2ddb40800000000000000
+      internalID: 5466577670879408229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_124
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 276
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8d5c4953802d550800000000000000
+      internalID: 6184014264555395326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_125
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 276
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe54530100028200800000000000000
+      internalID: 180706939399069437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_126
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 276
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c32e985594a0890800000000000000
+      internalID: -7491094398443045843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_127
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 276
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b088434aae4341670800000000000000
+      internalID: 8508483778391607307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_128
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 276
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f511e7ef43d3b9bc0800000000000000
+      internalID: -3775356564802760353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_129
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 276
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425ba6983e8f2ecc0800000000000000
+      internalID: -3683107889088907996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_130
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 276
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003ce9305f8ba8b00800000000000000
+      internalID: 831680443670512384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_131
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 276
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8595674ddc5bd3be0800000000000000
+      internalID: -1495839605579687592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_132
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 276
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65135f75c15b0640800000000000000
+      internalID: 5047217716085331311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_133
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 276
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28485480296daeff0800000000000000
+      internalID: -5956526795291518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_134
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 276
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89772147be0a4cb40800000000000000
+      internalID: 5459665581405009816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_135
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 276
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7e1211a5a6ec730800000000000000
+      internalID: 4021268452355467240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_136
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 276
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96acd0390ce3bd10800000000000000
+      internalID: 2140313772149745306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_137
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 276
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff972225d198e630800000000000000
+      internalID: 3956572617232064499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_138
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 276
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bc50de04603ec30800000000000000
+      internalID: 4387357337913248512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_139
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 276
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ed33cdf103a8040800000000000000
+      internalID: 4650582478609964637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_140
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 276
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a1bd5059098f730800000000000000
+      internalID: 4033132436033051162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_141
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 276
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacb66a7875c6d840800000000000000
+      internalID: 5248599536987192490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_142
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 276
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d47ec020e678870800000000000000
+      internalID: 8685031361492766017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_143
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 276
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16ab2501b868ef10800000000000000
+      internalID: 2299202719277884955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_144
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 276
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65df08f78e0114b90800000000000000
+      internalID: -7259502533586911914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_145
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 225
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb850c13ab3b652a0800000000000000
+      internalID: -6749009379288131397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_146
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 225
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e22a89be0332230800000000000000
+      internalID: 3612785114517483115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_147
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 225
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0723891e82c4eaa50800000000000000
+      internalID: 6534243847828419184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_148
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 225
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b55742d5aee5ab0800000000000000
+      internalID: -5017315249079624916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_149
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 225
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fe7a504fa2ce2e0800000000000000
+      internalID: -2095252499078844513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_150
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 225
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1324ce9358a4fd0800000000000000
+      internalID: -2356924971151642205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_151
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 225
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7a797b6f9550190800000000000000
+      internalID: -7996886647149451268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_152
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 225
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1c99ed1a303cca0800000000000000
+      internalID: -5997946284968132157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_153
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 225
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56746dd9f59381060800000000000000
+      internalID: 6924347509914879845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_154
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 225
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dffa876ea184e9a0800000000000000
+      internalID: -6204691800548245543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_155
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 225
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1644762d86505d0800000000000000
+      internalID: -3096953915862392398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_156
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 225
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5c6caf5ff06f660800000000000000
+      internalID: 7419134985288205802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_157
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 225
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd22a841814f698b0800000000000000
+      internalID: -5145657139963223332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_158
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 225
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91305e567edc9c8f0800000000000000
+      internalID: -519657888253934823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_159
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 225
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca14414c492b88150800000000000000
+      internalID: 5875142065919377836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_160
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 225
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98462f4c13a02b3a0800000000000000
+      internalID: -6651242490798906231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_161
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 225
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6658bb1272719e640800000000000000
+      internalID: 5109640709065639270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_162
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 225
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0993f9d8760b0790800000000000000
+      internalID: -7562944033116153589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_163
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 225
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a733c373475eaa80800000000000000
+      internalID: -8453723503311243352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_164
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 225
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b2ccbf75d306110800000000000000
+      internalID: 1252068144504908613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_165
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 225
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3eccb045eec7e00800000000000000
+      internalID: 1043971258385753042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_166
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 225
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa9e6005ebf5a450800000000000000
+      internalID: 6099558231316536051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_167
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 176
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cac5fd6905d4f040800000000000000
+      internalID: 4680600149221034697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_168
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 176
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e6fbbd490f8a2e0800000000000000
+      internalID: -2114175502917865914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_169
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 207
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc5b86f25efbecd0800000000000000
+      internalID: -2527647133561299773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_170
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 207
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd2bb22e6f2d2d80800000000000000
+      internalID: -8273904790334132742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_171
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 207
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d42b00bbf7589c70800000000000000
+      internalID: 8978022595665011921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_172
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 199
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314202118581014a0800000000000000
+      internalID: -6624768285338491885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_173
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 195
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdf293ee5de66c30800000000000000
+      internalID: 4352427081700933065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_174
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 177
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae9e204161a050f0800000000000000
+      internalID: -1130226067409297755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_175
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 176
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a53e891a250b4420800000000000000
+      internalID: 2615189686994220451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_176
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 177
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec67639b76f9aef0800000000000000
+      internalID: -96274906397315862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_177
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 195
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ece85d6cf688bb0800000000000000
+      internalID: -4933570492007264705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_178
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 191
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96728240e16053c40800000000000000
+      internalID: 5491302046636713833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_179
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 188
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f7a346c0ab38c80800000000000000
+      internalID: -8321603124066615452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_180
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 173
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8e36b5917f6e720800000000000000
+      internalID: 2875257100402157791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_181
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 173
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c474127236ce89bc0800000000000000
+      internalID: -3776008376947751092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_182
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 173
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1c7d64e9a637360800000000000000
+      internalID: 7166188660102513087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_183
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 173
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b89dd2d6f629310800000000000000
+      internalID: 1410312148031736674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_184
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 173
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4e76079fe380d30800000000000000
+      internalID: 4397834277180925101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_185
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 185
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc9feca8b8bd6ac0800000000000000
+      internalID: -3860226202271769349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_186
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 173
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4bc6c8b67948b20800000000000000
+      internalID: 3135797728729937067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_187
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 173
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3744afaf6f0a1ac60800000000000000
+      internalID: 7827714609979737203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_188
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 173
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231327ac643984450800000000000000
+      internalID: 6073266029762588978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_189
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 173
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a16cfbdfeecc3440800000000000000
+      internalID: 4917032422764994977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_190
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 173
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706c63d2875dc3e10800000000000000
+      internalID: 2178851031871833607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_191
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 173
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181424dc4ae80b290800000000000000
+      internalID: -7876638909801545343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_192
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 173
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222ae0b20e1435be0800000000000000
+      internalID: -1489774620678643166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_193
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 114
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aac8b293568ef1d0800000000000000
+      internalID: -3315064582196114784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_194
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 114
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c5efb0dc6a65ea0800000000000000
+      internalID: -5884332463513248671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_195
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 114
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd96082047cf6c00800000000000000
+      internalID: 896153929233374652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_196
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 114
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b375a148f152e0990800000000000000
+      internalID: -7417950718942095557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_197
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 114
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19af748b8db4d7690800000000000000
+      internalID: -7602837201754785135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_198
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 114
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37069dcbcf83b0030800000000000000
+      internalID: 3461923396715634803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_199
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 114
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a754b0cdff34daea0800000000000000
+      internalID: -5859952773951699590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_200
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 114
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855c187b2a14afb60800000000000000
+      internalID: 7780603473355195736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_201
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 138
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d97fd39a409785b0800000000000000
+      internalID: -5366161781005780525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_202
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 129
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5359876ffb829bcb0800000000000000
+      internalID: -4847798718948666059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_203
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 141
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cd5872eaab9c6c0800000000000000
+      internalID: -4122558726730818560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_204
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 134
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b4b7f358c800ea0800000000000000
+      internalID: -5908568207186506898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_205
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 135
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755ddac906368f3d0800000000000000
+      internalID: -3172676670885866153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_206
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 133
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82acfed8a5f2e7930800000000000000
+      internalID: 4142800773202299432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_207
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 134
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c795b6f44d613a0800000000000000
+      internalID: -6694930358471132076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_208
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 131
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc0e60301c4038c0800000000000000
+      internalID: -4021630834826146639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_209
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 114
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687331f1ac5eb5610800000000000000
+      internalID: 1611133947982591878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_210
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 141
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d63d4cf0eedc3e0800000000000000
+      internalID: -2031706105380115183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_211
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 129
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6484b87cf2feac50800000000000000
+      internalID: 6678542463607800941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_212
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 114
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6d9f768d9601af0800000000000000
+      internalID: -427725586421918040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_213
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 114
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d1b99e82e0946d0800000000000000
+      internalID: -3005855707412357840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_214
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 114
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b5dd57075907cc0800000000000000
+      internalID: -3715305382334342297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_215
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 114
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0709793eb60564530800000000000000
+      internalID: 3838844156690010224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_216
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 114
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15ab7c0a2f4d3e90800000000000000
+      internalID: -7044387200120937188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_217
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 114
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1214de9f95d66d110800000000000000
+      internalID: 1285334976873447713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_218
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 58
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f4ca55d0b6ce2f0800000000000000
+      internalID: -942260517011173571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_219
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 58
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bba87e88a90179b0800000000000000
+      internalID: -5084271884775150666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_220
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 58
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f226ec2da6f30a20800000000000000
+      internalID: 3027534598166160114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_221
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 59
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d50a2455b0157b0800000000000000
+      internalID: -5237392430837244543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_222
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 11
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64d0e4d106bd7b60800000000000000
+      internalID: 7745547053129847918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_223
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 72
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c87465ae0f5b27d0800000000000000
+      internalID: -2942153415047481150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_224
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 11
+        width: 45
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ef38318c196f800800000000000000
+      internalID: 645863885081149018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_225
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 59
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405549fc6b0353600800000000000000
+      internalID: 447317299718018308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_226
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 40
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1b475fa631a7d40800000000000000
+      internalID: 5582796038184677825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_227
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 59
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e896737ce043850800000000000000
+      internalID: 6355721222917557766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_228
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 59
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f847120408d61d310800000000000000
+      internalID: 1428042954452333711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_229
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 90
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143a2a3089f753ec0800000000000000
+      internalID: -3587821237257985215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_230
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 86
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f993831780bbd1c0800000000000000
+      internalID: -4477791310295361040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_231
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 59
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3a29e8639f0a830800000000000000
+      internalID: 4080535275113194448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_232
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 59
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ac3fa772c95c750800000000000000
+      internalID: 6324632945092184637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_233
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 59
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0e58ac02a8fb980800000000000000
+      internalID: -8520940096520331097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_234
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 63
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125fb46710dc0f200800000000000000
+      internalID: 211894588649764129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_235
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 59
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39968f88ea3d766c0800000000000000
+      internalID: -4150115785022871149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_236
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 62
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e59508572db8110800000000000000
+      internalID: 1264335522513903111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_237
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 59
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2770e05c07cc220800000000000000
+      internalID: 2507503084184761043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_238
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 61
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83f35c7273c7b190800000000000000
+      internalID: -7946668120992386161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_239
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 73
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b22a897f6d731c0800000000000000
+      internalID: -4523910941764342975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_240
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 75
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5f57cc59e8e3b90800000000000000
+      internalID: -7260208775243106876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_241
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 78
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6883a7c45c0fb33c0800000000000000
+      internalID: -4378641482505373562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_242
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 73
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4322139d011284470800000000000000
+      internalID: 8378983462969877044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_243
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 73
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b688da10831aa4d90800000000000000
+      internalID: -7112695399559886741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_244
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 78
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c057162fd376a0830800000000000000
+      internalID: 4038153531648210188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_245
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 74
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5843b7706891570800000000000000
+      internalID: 8437922743545267650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_246
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 72
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8442e0c230195d0800000000000000
+      internalID: -3057659184257152853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_247
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 67
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15476ced6cc561690800000000000000
+      internalID: -7631810509321898927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_248
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 71
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ec2a8f0c4d61f60800000000000000
+      internalID: 8004819312967863821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_249
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 7
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa39400d5c39bcf0800000000000000
+      internalID: -236091135325816145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_250
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 9
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d7462ccf49a80f0800000000000000
+      internalID: -1113914144506741492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_251
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 19
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7fd56be9edc9b70800000000000000
+      internalID: 8907238936277809100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_252
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 10
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0201504c8f82c4a40800000000000000
+      internalID: 5353699105942343712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_253
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 10
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073b6fd70b4ab3dd0800000000000000
+      internalID: -2505227689767029904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_254
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 10
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c1c67a053408ba0800000000000000
+      internalID: -6088792682519585729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_255
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 18
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93943aeabeeaa4790800000000000000
+      internalID: -7545025898435360455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_256
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 10
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43098cc2ac3fad730800000000000000
+      internalID: 4024797266669244468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_257
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 10
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1979615f7ea1a4400800000000000000
+      internalID: 309089107979966353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_258
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 10
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76a7a984c2541c80800000000000000
+      internalID: -8352960404788894083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_259
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 5
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3ee38b91f9c4280800000000000000
+      internalID: -9057689817734781992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_260
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 3
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acd1a8e93793dbc0800000000000000
+      internalID: -3759494988952380249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_261
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 5
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78c35bb4b0a94070800000000000000
+      internalID: 8091174903645194363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_262
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 3
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91bf8990d4938550800000000000000
+      internalID: 6161932338823410076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_263
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 7
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93145fa0448505910800000000000000
+      internalID: 1824054898349916473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_264
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 5
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee8cf70ecce71dd0800000000000000
+      internalID: -2515281497221722388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_265
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 7
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a165e3e582c5f770800000000000000
+      internalID: 8644028940117434791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_266
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 7
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2801921dd3a0af10800000000000000
+      internalID: 2279001581344065580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_267
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdb3b08f2ac7a110800000000000000
+      internalID: 1272207725126991307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_268
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 5
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62579d82aab4ef6f0800000000000000
+      internalID: -648998102092909274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_269
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 7
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a192b29b9387a8f0800000000000000
+      internalID: -529309726988398168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_270
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668aee70d08e6acb0800000000000000
+      internalID: -4852936405779830682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_271
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1503ec72c2a319e90800000000000000
+      internalID: -7020766382773096367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_272
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 6
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534db3393eed80090800000000000000
+      internalID: -8067953663425129419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_273
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df1fea4b877e5030800000000000000
+      internalID: 3485354601772687319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_274
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 6
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a093a69a833ead980800000000000000
+      internalID: -8513242313090516726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenarmy_275
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 4
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0311751107b321240800000000000000
+      internalID: 4760933108597330224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

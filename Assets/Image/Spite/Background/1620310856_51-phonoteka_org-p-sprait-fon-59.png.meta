@@ -1,0 +1,3510 @@
+fileFormatVersion: 2
+guid: 1c58deb23a534254d978f66d8221ca14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6873689736183767984
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_0
+  - first:
+      213: -2876398162261543166
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_1
+  - first:
+      213: -7703633010952262836
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_2
+  - first:
+      213: 7368830312297092653
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_3
+  - first:
+      213: 7788124436804278061
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_4
+  - first:
+      213: 4588161839938800389
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_5
+  - first:
+      213: -3692685760170042135
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_6
+  - first:
+      213: 1031283911442923857
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_7
+  - first:
+      213: 674317468902567234
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_8
+  - first:
+      213: 5324580419456444521
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_9
+  - first:
+      213: -544403350403583468
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_10
+  - first:
+      213: -1189899019437577817
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_11
+  - first:
+      213: 2117061920186690368
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_12
+  - first:
+      213: -3105040956181309184
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_13
+  - first:
+      213: -6313022071300688559
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_14
+  - first:
+      213: -6389066133898003554
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_15
+  - first:
+      213: -6052593221486813015
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_16
+  - first:
+      213: 5096317794120223318
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_17
+  - first:
+      213: -202080495092812814
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_18
+  - first:
+      213: 3373882839826526606
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_19
+  - first:
+      213: 713731548737437181
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_20
+  - first:
+      213: -2938787001770385187
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_21
+  - first:
+      213: 569691518010576551
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_22
+  - first:
+      213: 1453913924878700096
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_23
+  - first:
+      213: 9056603338661013362
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_24
+  - first:
+      213: 8266372545087250671
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_25
+  - first:
+      213: 1375540521590109336
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_26
+  - first:
+      213: 2771058558039182264
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_27
+  - first:
+      213: 6564341851711851791
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_28
+  - first:
+      213: 2578326801794889069
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_29
+  - first:
+      213: -3301202088387940902
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_30
+  - first:
+      213: 7354991527567602517
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_31
+  - first:
+      213: -847974839596567977
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_32
+  - first:
+      213: -1194152806262047157
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_33
+  - first:
+      213: 7728201014727575433
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_34
+  - first:
+      213: 2856141281982168927
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_35
+  - first:
+      213: -7074099069175388485
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_36
+  - first:
+      213: 6874272531928881741
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_37
+  - first:
+      213: -2517355661289343950
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_38
+  - first:
+      213: -2755333177176366198
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_39
+  - first:
+      213: 7502494412864504404
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_40
+  - first:
+      213: 1922629916165428321
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_41
+  - first:
+      213: 2881978670886819518
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_42
+  - first:
+      213: 4750247043511708694
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_43
+  - first:
+      213: 1162189639242779361
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_44
+  - first:
+      213: -7607068991242094567
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_45
+  - first:
+      213: -5380885282606292820
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_46
+  - first:
+      213: 5205865866866608083
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_47
+  - first:
+      213: 1879066833275128976
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_48
+  - first:
+      213: -6051085434812443892
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_49
+  - first:
+      213: 8587200745681065436
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_50
+  - first:
+      213: -9203066928336341109
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_51
+  - first:
+      213: 8540301886918257302
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_52
+  - first:
+      213: 8258530785723817823
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_53
+  - first:
+      213: 3752279244963987814
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_54
+  - first:
+      213: 4137533138147188271
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_55
+  - first:
+      213: 8850177635028036612
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_56
+  - first:
+      213: 215931713367897545
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_57
+  - first:
+      213: -2585954572708385644
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_58
+  - first:
+      213: -4117653482320759916
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_59
+  - first:
+      213: -6948757203443918999
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_60
+  - first:
+      213: 4971691540874528643
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_61
+  - first:
+      213: -3239434881527073093
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_62
+  - first:
+      213: 4669409624720617439
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_63
+  - first:
+      213: -5238758359706482214
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_64
+  - first:
+      213: -3425202328666175527
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_65
+  - first:
+      213: -5300074280062382393
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_66
+  - first:
+      213: -6574079229861011423
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_67
+  - first:
+      213: 7441318762049978033
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_68
+  - first:
+      213: 8946376723040331994
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_69
+  - first:
+      213: 5111261646840307343
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_70
+  - first:
+      213: -8737194273887501259
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_71
+  - first:
+      213: 241508973496857399
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_72
+  - first:
+      213: -8879745602677282726
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_73
+  - first:
+      213: 2776687448679213913
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_74
+  - first:
+      213: 5186283138115486997
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_75
+  - first:
+      213: 5904783706055354081
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_76
+  - first:
+      213: -7529708139769166322
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_77
+  - first:
+      213: 7853299598219898529
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_78
+  - first:
+      213: 6718674787196579870
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_79
+  - first:
+      213: 716116773475459953
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_80
+  - first:
+      213: -5247497889571848198
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_81
+  - first:
+      213: -210735052092836846
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_82
+  - first:
+      213: -2619567075187778554
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_83
+  - first:
+      213: -1335810425622204151
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_84
+  - first:
+      213: -1553630753230716628
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_85
+  - first:
+      213: 5494988951021399719
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_86
+  - first:
+      213: 2319887610881548671
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_87
+  - first:
+      213: 996085290542721580
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_88
+  - first:
+      213: -7126351504069963861
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_89
+  - first:
+      213: -994502366159045322
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_90
+  - first:
+      213: 4348860271858899021
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_91
+  - first:
+      213: 5488752562075965156
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_92
+  - first:
+      213: 1514403056353396958
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_93
+  - first:
+      213: -4082510135997360634
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_94
+  - first:
+      213: -541167427789217291
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_95
+  - first:
+      213: 7576847724393849727
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_96
+  - first:
+      213: -3310303799131201567
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_97
+  - first:
+      213: 7416291858319081957
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_98
+  - first:
+      213: -2986838318780970182
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_99
+  - first:
+      213: 1892233035023323997
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_100
+  - first:
+      213: 1457077355225180224
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_101
+  - first:
+      213: -2955998449885760430
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_102
+  - first:
+      213: 9219037315555353678
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_103
+  - first:
+      213: -8871625842253926770
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_104
+  - first:
+      213: -3818401956830155914
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_105
+  - first:
+      213: -2936612195835291268
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_106
+  - first:
+      213: 6048922994595503306
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_107
+  - first:
+      213: 1186439443182229
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_108
+  - first:
+      213: 6889975171217037904
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_109
+  - first:
+      213: -6966259683219413027
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_110
+  - first:
+      213: 6642271969690518327
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_111
+  - first:
+      213: -3932819164090550769
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_112
+  - first:
+      213: -9171213551691354404
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_113
+  - first:
+      213: -968496468509725558
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_114
+  - first:
+      213: 2079817619956490707
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_115
+  - first:
+      213: -6989188262612826024
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_116
+  - first:
+      213: -3498721595565898897
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_117
+  - first:
+      213: 5475529830632780484
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_118
+  - first:
+      213: -4842439319703588455
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_119
+  - first:
+      213: -5424125287727860908
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_120
+  - first:
+      213: 1289530982006780473
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_121
+  - first:
+      213: -4488329749317398133
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_122
+  - first:
+      213: -2931517583253276957
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_123
+  - first:
+      213: -2038022843666287284
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_124
+  - first:
+      213: -1003745199278158541
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_125
+  - first:
+      213: -9003135904942829186
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_126
+  - first:
+      213: 5967246224888861628
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_127
+  - first:
+      213: -5202046047202235177
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_128
+  - first:
+      213: 124044266357785405
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_129
+  - first:
+      213: 4086968160776696231
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_130
+  - first:
+      213: -3549208307423514598
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_131
+  - first:
+      213: -3479909601735189964
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_132
+  - first:
+      213: -951471834208671741
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_133
+  - first:
+      213: -844183633282309941
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_134
+  - first:
+      213: 1128141715581895817
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_135
+  - first:
+      213: -5254298931246924717
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_136
+  - first:
+      213: 533002834276462017
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_137
+  - first:
+      213: -6600517284043345967
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_138
+  - first:
+      213: -1795469432077634653
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_139
+  - first:
+      213: -7263154483522577076
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_140
+  - first:
+      213: 4335026260165600169
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_141
+  - first:
+      213: 1453796878492702808
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_142
+  - first:
+      213: -1712960587434899854
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_143
+  - first:
+      213: 9059721965262721031
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_144
+  - first:
+      213: -2262158181195578995
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_145
+  - first:
+      213: 3015248554611002996
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_146
+  - first:
+      213: 8400881088654178814
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_147
+  - first:
+      213: -1137595721863150474
+    second: 1620310856_51-phonoteka_org-p-sprait-fon-59_148
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_0
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 920
+        width: 128
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c94827a9fbb90a0800000000000000
+      internalID: -6873689736183767984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_2
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 968
+        width: 56
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ba7369792371590800000000000000
+      internalID: -7703633010952262836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_4
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 961
+        width: 72
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27124a79e9f41c60800000000000000
+      internalID: 7788124436804278061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 936
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b0e8162ec6caf30800000000000000
+      internalID: 4588161839938800389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 728
+        width: 336
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecdbe5add1f0ccc0800000000000000
+      internalID: -3692685760170042135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_8
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 952
+        width: 107
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d27cf4a28ab5900800000000000000
+      internalID: 674317468902567234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 960
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41279a48904e178f0800000000000000
+      internalID: -544403350403583468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 952
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04beb388990516d10800000000000000
+      internalID: 2117061920186690368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1028
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00916c993bda8e4d0800000000000000
+      internalID: -3105040956181309184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_15
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 968
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bf782b33a7557a0800000000000000
+      internalID: -6389066133898003554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_16
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 968
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a06757788ed00ca0800000000000000
+      internalID: -6052593221486813015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_17
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 968
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ac9054802c9b640800000000000000
+      internalID: 5096317794120223318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_20
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 968
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdfb73ef0fa7e900800000000000000
+      internalID: 713731548737437181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_21
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 960
+        width: 112
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0e0f0dac45737d0800000000000000
+      internalID: -2938787001770385187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_24
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 968
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277a188a0c48fad70800000000000000
+      internalID: 9056603338661013362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_25
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 994
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0a7fa580e08b270800000000000000
+      internalID: 8266372545087250671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_26
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 990
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894b88301d6e61310800000000000000
+      internalID: 1375540521590109336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_27
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 985
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb4bbba317c47620800000000000000
+      internalID: 2771058558039182264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_28
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 984
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dc38f722a391b50800000000000000
+      internalID: 6564341851711851791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_29
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 980
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d657adfc09e08c320800000000000000
+      internalID: 2578326801794889069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_30
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 960
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addebdde036cf22d0800000000000000
+      internalID: -3301202088387940902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_31
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 960
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553bcae63dd221660800000000000000
+      internalID: 7354991527567602517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_32
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 744
+        width: 144
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752b06b40636b34f0800000000000000
+      internalID: -847974839596567977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_33
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 814
+        width: 104
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ef63f79548d6fe0800000000000000
+      internalID: -1194152806262047157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_34
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 908
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98786ab80e5104b60800000000000000
+      internalID: 7728201014727575433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_35
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 812
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f30ec0d5d03a720800000000000000
+      internalID: 2856141281982168927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_36
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 788
+        width: 48
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb621e37060c3dd90800000000000000
+      internalID: -7074099069175388485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_37
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 808
+        width: 94
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a98d24272566f50800000000000000
+      internalID: 6874272531928881741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_38
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 826
+        width: 116
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234b7831d5e801dd0800000000000000
+      internalID: -2517355661289343950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_39
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 752
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83ed80e21713c9d0800000000000000
+      internalID: -2755333177176366198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_40
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 753
+        width: 160
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45244282be63e1860800000000000000
+      internalID: 7502494412864504404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_41
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 882
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1645493e8bd8eaa10800000000000000
+      internalID: 1922629916165428321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_42
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 840
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb61670f458def720800000000000000
+      internalID: 2881978670886819518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_43
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 874
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c6dd7a4844ce140800000000000000
+      internalID: 4750247043511708694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_44
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 824
+        width: 114
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea84b0c15de02010800000000000000
+      internalID: 1162189639242779361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_45
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 832
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91830237e034e6690800000000000000
+      internalID: -7607068991242094567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_46
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 853
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0ef1938514355b0800000000000000
+      internalID: -5380885282606292820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_47
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 836
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d74aee8c63fe3840800000000000000
+      internalID: 5205865866866608083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_48
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 874
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c05924459c31a10800000000000000
+      internalID: 1879066833275128976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_49
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 876
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03d6786bd9360ca0800000000000000
+      internalID: -6051085434812443892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_50
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 872
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd51a4dc49ddb2770800000000000000
+      internalID: 8587200745681065436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_51
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 856
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87fd5c7363284080800000000000000
+      internalID: -9203066928336341109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 849
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a6c54515f358670800000000000000
+      internalID: 8540301886918257302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_53
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 844
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f12b97ef13c9270800000000000000
+      internalID: 8258530785723817823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_54
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 846
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6614626c716c21430800000000000000
+      internalID: 3752279244963987814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_55
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 840
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e9ba1b7787b6930800000000000000
+      internalID: 4137533138147188271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_56
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 824
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ce3f63ba522da70800000000000000
+      internalID: 8850177635028036612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_57
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 811
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5f80fcfb42ff200800000000000000
+      internalID: 215931713367897545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_58
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 744
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c6b606408dc1cd0800000000000000
+      internalID: -2585954572708385644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_59
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 712
+        width: 104
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493fe1e59f72bd6c0800000000000000
+      internalID: -4117653482320759916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_60
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 710
+        width: 117
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967d94ab32e019f90800000000000000
+      internalID: -6948757203443918999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_61
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 704
+        width: 119
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38704a28d1ffef440800000000000000
+      internalID: 4971691540874528643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_62
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 712
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6b19573273b03d0800000000000000
+      internalID: -3239434881527073093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_63
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 712
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf234860531dc040800000000000000
+      internalID: 4669409624720617439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_64
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 712
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9469927013c47b0800000000000000
+      internalID: -5238758359706482214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_65
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 754
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7030c21ac3770d0800000000000000
+      internalID: -3425202328666175527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_66
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 712
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce82b5f58a5276b0800000000000000
+      internalID: -5300074280062382393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_67
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 744
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1206cda75cd24c4a0800000000000000
+      internalID: -6574079229861011423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_68
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 712
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be30700dffd44760800000000000000
+      internalID: 7441318762049978033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_69
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 752
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad864abca3ae72c70800000000000000
+      internalID: 8946376723040331994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_70
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 746
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e9efd1369dee640800000000000000
+      internalID: 5111261646840307343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_71
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 733
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534cb5b79104fb680800000000000000
+      internalID: -8737194273887501259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_72
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 714
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733795fb1230a5300800000000000000
+      internalID: 241508973496857399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_73
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 713
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a586598db6ec4c480800000000000000
+      internalID: -8879745602677282726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_74
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 712
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b6fc6e586c88620800000000000000
+      internalID: 2776687448679213913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_75
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 670
+        width: 148
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515c8f7390169f740800000000000000
+      internalID: 5186283138115486997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_76
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 566
+        width: 249
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6a1faee7102f150800000000000000
+      internalID: 5904783706055354081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_77
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 720
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0601ba475a118790800000000000000
+      internalID: -7529708139769166322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_78
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 710
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae6d9240668cfc60800000000000000
+      internalID: 7853299598219898529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_79
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 536
+        width: 119
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10b9343f178d3d50800000000000000
+      internalID: 6718674787196579870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_80
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 539
+        width: 52
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17324bc496820f900800000000000000
+      internalID: 716116773475459953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_81
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 351
+        width: 140
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff357cc8742d27b0800000000000000
+      internalID: -5247497889571848198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_82
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 536
+        width: 176
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214784e2691531df0800000000000000
+      internalID: -210735052092836846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_83
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 672
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c9f1acf9d65abd0800000000000000
+      internalID: -2619567075187778554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_84
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 674
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901768dce7f367de0800000000000000
+      internalID: -1335810425622204151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_85
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 536
+        width: 146
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c218f89bf05607ae0800000000000000
+      internalID: -1553630753230716628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_86
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 536
+        width: 184
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aea356565f124c40800000000000000
+      internalID: 5494988951021399719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_87
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 567
+        width: 66
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71ac65ad75e13020800000000000000
+      internalID: 2319887610881548671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_88
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 660
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a6ac45b4ec2dd00800000000000000
+      internalID: 996085290542721580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_89
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 616
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafc657601d1a1d90800000000000000
+      internalID: -7126351504069963861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_90
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 568
+        width: 63
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dfdc8fd51d232f0800000000000000
+      internalID: -994502366159045322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_91
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 350
+        width: 160
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4855f140614a5c30800000000000000
+      internalID: 4348860271858899021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_92
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 612
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e69d82ef57fb2c40800000000000000
+      internalID: 5488752562075965156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_93
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 600
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8c5bc5e8d340510800000000000000
+      internalID: 1514403056353396958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_94
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 522
+        width: 207
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60612ff49a20857c0800000000000000
+      internalID: -4082510135997360634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_95
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 592
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1ac9677136d78f0800000000000000
+      internalID: -541167427789217291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_96
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 536
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73e8b98cde562960800000000000000
+      internalID: 7576847724393849727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_97
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 581
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef9822cb307f02d0800000000000000
+      internalID: -3310303799131201567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_98
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 545
+        width: 121
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e10bb5e626fbe660800000000000000
+      internalID: 7416291858319081957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_99
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 344
+        width: 116
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b098fbf5e9c86d0800000000000000
+      internalID: -2986838318780970182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_100
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 344
+        width: 113
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5313dc7bef824a10800000000000000
+      internalID: 1892233035023323997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_101
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 538
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04866787224983410800000000000000
+      internalID: 1457077355225180224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_102
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 377
+        width: 50
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25434f5421f2af6d0800000000000000
+      internalID: -2955998449885760430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_103
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 376
+        width: 55
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e446fbc089990ff70800000000000000
+      internalID: 9219037315555353678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_104
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 380
+        width: 69
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e6744ec47a1e480800000000000000
+      internalID: -8871625842253926770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_105
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 476
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b6b79a6af420bc0800000000000000
+      internalID: -3818401956830155914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_106
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 471
+        width: 223
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79582844ce0f37d0800000000000000
+      internalID: -2936612195835291268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_107
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 482
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc9e8e3a6712f350800000000000000
+      internalID: 6048922994595503306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_108
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 465
+        width: 226
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592fe857f07340000800000000000000
+      internalID: 1186439443182229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_109
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 469
+        width: 213
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a17afd9eb1e9f50800000000000000
+      internalID: 6889975171217037904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_110
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 487
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7e4981abfd25f90800000000000000
+      internalID: -6966259683219413027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_111
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 456
+        width: 184
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73300f60a271e2c50800000000000000
+      internalID: 6642271969690518327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_112
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 392
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06b886aec1db69c0800000000000000
+      internalID: -3932819164090550769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_113
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 471
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde203caddd49b080800000000000000
+      internalID: -9171213551691354404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_114
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 472
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ce14cd7953f82f0800000000000000
+      internalID: -968496468509725558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_115
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 444
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1ea132b1ffcdc10800000000000000
+      internalID: 2079817619956490707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_116
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 342
+        width: 260
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85802a23e4a610f90800000000000000
+      internalID: -6989188262612826024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_117
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 414
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f638e40fe3b027fc0800000000000000
+      internalID: -3498721595565898897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_118
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 416
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2fbefce5dfcfb40800000000000000
+      internalID: 5475529830632780484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_119
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 360
+        width: 360
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991fea658133cccb0800000000000000
+      internalID: -4842439319703588455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_120
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 360
+        width: 277
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45374cff9c2a9b4b0800000000000000
+      internalID: -5424125287727860908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_121
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 406
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932ff5d889555e110800000000000000
+      internalID: 1289530982006780473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_122
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 398
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b815e198fdf36b1c0800000000000000
+      internalID: -4488329749317398133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_123
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 376
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e670653a482157d0800000000000000
+      internalID: -2931517583253276957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_124
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 376
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45b327850d77b3e0800000000000000
+      internalID: -2038022843666287284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_125
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 152
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d85003f0bf112f0800000000000000
+      internalID: -1003745199278158541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_126
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 152
+        width: 96
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e715159589f6e0380800000000000000
+      internalID: -9003135904942829186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_127
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 136
+        width: 258
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb39ac163daefc250800000000000000
+      internalID: 5967246224888861628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_128
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 346
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc29438eae9ec7b0800000000000000
+      internalID: -5202046047202235177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_129
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 337
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d330ea06a91b8b100800000000000000
+      internalID: 124044266357785405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_130
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 304
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a13d6773e3d7b830800000000000000
+      internalID: 4086968160776696231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_131
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 152
+        width: 104
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10f72259ddaebec0800000000000000
+      internalID: -3549208307423514598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_132
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 136
+        width: 257
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a5a1297a0e4bfc0800000000000000
+      internalID: -3479909601735189964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_133
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 216
+        width: 363
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308e33c6861bbc2f0800000000000000
+      internalID: -951471834208671741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_134
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 248
+        width: 385
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0620d457bd844f0800000000000000
+      internalID: -844183633282309941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_135
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 241
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9840f85c9e6f7af00800000000000000
+      internalID: 1128141715581895817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_136
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 164
+        width: 64
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cff43e5faf417b0800000000000000
+      internalID: -5254298931246924717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_137
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 213
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd2359f04b956700800000000000000
+      internalID: 533002834276462017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_138
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 219
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df25ce40804664a0800000000000000
+      internalID: -6600517284043345967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_139
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 208
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3b0f770163517e0800000000000000
+      internalID: -1795469432077634653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_140
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 158
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dd9d4aa77143b90800000000000000
+      internalID: -7263154483522577076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_141
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 128
+        width: 398
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a329296a6b192c30800000000000000
+      internalID: 4335026260165600169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_142
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 136
+        width: 361
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8581126fe8cec2410800000000000000
+      internalID: 1453796878492702808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_143
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 152
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276c2bfdb675a38e0800000000000000
+      internalID: -1712960587434899854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_144
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 138
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700d94f70299abd70800000000000000
+      internalID: 9059721965262721031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 467
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d810810ae133b90e0800000000000000
+      internalID: -2262158181195578995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_146
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 8
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e491fb59058d920800000000000000
+      internalID: 3015248554611002996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_147
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 8
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9778127dce59470800000000000000
+      internalID: 8400881088654178814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1620310856_51-phonoteka_org-p-sprait-fon-59_148
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 8
+        width: 198
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674c75cd7b27630f0800000000000000
+      internalID: -1137595721863150474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
