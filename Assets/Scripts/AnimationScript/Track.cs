@@ -1,0 +1,22 @@
+public enum Track
+{
+    idle,
+    run,
+    jamp,
+    sitsDown,
+    standingTurn,
+    sittingTurn,
+    standingShooting,
+    sittingShooting,
+    standingRecharge,
+    sittingRecharge,
+    hitting,
+    sittingShout,
+    shotFromBehindCoverLeft,
+    shotFromBehindCoverRight,
+    rechargeInTheShelter,
+    victory,
+    fallingWeapons,
+    shot,
+    bullet
+}

@@ -1,0 +1,2 @@
+D:\unityD\GB\2DShooting\2D_Shooting\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+D:\unityD\GB\2DShooting\2D_Shooting\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
