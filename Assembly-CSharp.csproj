@@ -56,15 +56,17 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\System\Starter.cs" />
-    <Compile Include="Assets\Scripts\Player\PlayerView.cs" />
-    <Compile Include="Assets\Scripts\Block\BlockView.cs" />
-    <Compile Include="Assets\Scripts\Managers\ParalaxManager.cs" />
-    <Compile Include="Assets\Scripts\AnimationScript\Track.cs" />
     <Compile Include="Assets\Scripts\AnimationScript\SpritesSequence.cs" />
     <Compile Include="Assets\Scripts\AnimationScript\SpriteAnimationConfig.cs" />
+    <Compile Include="Assets\Scripts\Block\BlockView.cs" />
     <Compile Include="Assets\Scripts\AnimationScript\SpriteAnimator.cs" />
+    <Compile Include="Assets\Scripts\Player\PlayerView.cs" />
+    <Compile Include="Assets\Scripts\Managers\ParalaxManager.cs" />
+    <Compile Include="Assets\Scripts\System\Starter.cs" />
+    <Compile Include="Assets\Scripts\AnimationScript\Track.cs" />
     <Compile Include="Assets\Scripts\AnimationScript\CustomAnimation.cs" />
+    <Compile Include="Assets\Scripts\Player\Controller\MainHeroWalker.cs" />
+    <Compile Include="Assets\Scripts\System\Utils.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

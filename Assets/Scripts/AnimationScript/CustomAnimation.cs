@@ -19,8 +19,15 @@ public class CustomAnimation
 
         if (Loop)
         {
-            while (Counter > Sprites.Count)
-                Counter -= Sprites.Count;
+            if (Sprites.Count > 0)
+            {
+                while (Counter > Sprites.Count)
+                    Counter -= Sprites.Count;
+            }
+            else
+            {
+                Debug.Log("Sprites.Count =0"); 
+            }
         }
         else if (Counter > Sprites.Count)
         {

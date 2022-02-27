@@ -2,7 +2,7 @@ public enum Track
 {
     idle,
     run,
-    jamp,
+    jump,
     sitsDown,
     standingTurn,
     sittingTurn,
