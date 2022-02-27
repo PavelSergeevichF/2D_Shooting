@@ -26,7 +26,9 @@ public class MainHeroWalker
         }
         if(IsGrounded())
         {
-            _spriteAnimator.StartAnimation(_playerView.SpriteRenderer, isGoSideWay ? Track.run : Track.idle, true, _playerView.AnimationsSpeed);
+            if (isGoSideWay) { Animation(Track.run, 3); }
+            else { Animation(Track.idle, 1); }
+            //_spriteAnimator.StartAnimation(_playerView.SpriteRenderer, isGoSideWay ? Track.run : Track.idle, true, _playerView.AnimationsSpeed);
             if(doJump && Mathf.Approximately(_yVelocity, 0))
             {
                 _yVelocity = _playerView.JampStartSpeed;
@@ -36,17 +38,16 @@ public class MainHeroWalker
                 _yVelocity = 0;
                 MovementCharacter();
             }
-            else 
-            {
-                _spriteAnimator.StartAnimation(_playerView.SpriteRenderer, Track.idle, true, _playerView.AnimationsSpeed);
-            }
         }
         else
         {
             LandingCharater();
         }
     }
-
+    private void Animation(Track track, float cof)
+    {
+        _spriteAnimator.StartAnimation(_playerView.SpriteRenderer, track, true, _playerView.AnimationsSpeed* cof);
+    }
     private void LandingCharater()
     {
         _yVelocity += _playerView.Acceleration * Time.deltaTime;
@@ -65,8 +66,7 @@ public class MainHeroWalker
     }
     private void GoSideWay(float xAxisInput)
     {
-        Vector3 tmp= Vector3.right * (Time.deltaTime * _playerView.WalkSpeed * xAxisInput < 0 ? -1 : 1);
-        Debug.Log($"position= {tmp} deltaTime {Time.deltaTime} WalkSpeed {_playerView.WalkSpeed} Vector3.right {Vector3.right}");
+        Vector3 tmp = Vector3.right * (Time.deltaTime * _playerView.WalkSpeed * (xAxisInput < 0 ? -1 : 1));
         _playerView.transform.position += tmp;
         tmp = _playerView.transform.position;
         if (_playerView.transform.position.x < -16.5f) { tmp.x = -16.5f; _playerView.transform.position = tmp;  }

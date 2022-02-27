@@ -15618,7 +15618,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _spriteRenderer: {fileID: 1588158289}
-  _walkSpeed: 0.001
+  _walkSpeed: 1
   _animationsSpeed: 3
   _jampStartSpeed: 2
   _movingTresh: 0.1
