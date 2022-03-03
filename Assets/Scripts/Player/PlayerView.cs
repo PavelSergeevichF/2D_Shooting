@@ -5,6 +5,9 @@ public class PlayerView : MonoBehaviour
     [SerializeField]
     private SpriteRenderer _spriteRenderer;
 
+    [SerializeField] private Collider2D _collider;
+    [SerializeField] private Rigidbody2D _rigidbody;
+
     [Header("Settings")]
     [SerializeField] private float _walkSpeed =1;
     [SerializeField] private float _animationsSpeed = 3;
@@ -16,12 +19,14 @@ public class PlayerView : MonoBehaviour
     [SerializeField] private bool  _isDownButtonJamp;
     public SpriteRenderer SpriteRenderer  => _spriteRenderer;
 
-    public float WalkSpeed { get => _walkSpeed; }
-    public float AnimationsSpeed { get => _animationsSpeed; }
-    public float JampStartSpeed { get => _jampStartSpeed;  }
-    public float MovingTresh { get => _movingTresh;  }
-    public float FlyTresh { get => _flyTresh; }
-    public float GroundLevel { get => _groundLevel;  }
-    public float Acceleration { get => _acceleration; }
+    public float WalkSpeed  => _walkSpeed; 
+    public float AnimationsSpeed  => _animationsSpeed; 
+    public float JampStartSpeed  => _jampStartSpeed;  
+    public float MovingTresh  => _movingTresh;  
+    public float FlyTresh  => _flyTresh; 
+    public float GroundLevel  => _groundLevel;  
+    public float Acceleration  => _acceleration;
+    public Collider2D Collider => _collider;
+    public Rigidbody2D Rigidbody => _rigidbody;
 }
  
