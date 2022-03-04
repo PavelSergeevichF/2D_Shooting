@@ -4,6 +4,10 @@ public class MainHeroPhysicWalker
 {
     private const string Horizontal = nameof(Horizontal);
     private const string Vertical = nameof(Vertical);
+    private const float _BorderLeft = -16.5f;
+    private const float _BorderRight = 24.5f;
+    private const float _BorderTop = 6.0f;
+    private const float _BorderDowne = -4.0f;
 
     private ContactsPoler _contactsPoler;
     private PlayerView _playerView;
@@ -25,9 +29,7 @@ public class MainHeroPhysicWalker
 
         var isGoSideWay = Mathf.Abs(xAxisInput) > _playerView.MovingTresh;
         if(isGoSideWay)
-        {
             _playerView.SpriteRenderer.flipX = xAxisInput > 0;
-        }
 
         var newVelocity = 0f;
 
@@ -36,34 +38,34 @@ public class MainHeroPhysicWalker
             (xAxisInput<0 || !_contactsPoler.hasRightContacts)
             )
         {
-            newVelocity = Time.fixedDeltaTime * _playerView.WalkSpeed * (xAxisInput < 0 ? -1 : 1);
-            //Vector3 tmp = Vector3.right * (Time.deltaTime * _playerView.WalkSpeed * (xAxisInput < 0 ? -1 : 1));
-            //_playerView.transform.position += tmp;
-            //tmp = _playerView.transform.position;
-            //if (_playerView.transform.position.x < -16.5f) { tmp.x = -16.5f; _playerView.transform.position = tmp; }
-            //if (_playerView.transform.position.x > 24.5f) { tmp.x = 24.5f; _playerView.transform.position = tmp; }
-            //if (_playerView.transform.position.y < -4.0f) { tmp.y = -4.0f; _playerView.transform.position = tmp; }
-            //if (_playerView.transform.position.y > 6f) { tmp.y = 6f; _playerView.transform.position = tmp; }
+            newVelocity = Time.fixedDeltaTime * _playerView.PowerOfMovement * (xAxisInput < 0 ? -1 : 1);
         }
         _playerView.Rigidbody.velocity = _playerView.Rigidbody.velocity.Change(x: newVelocity);
         if (_contactsPoler.isGrrounded && doJump && Mathf.Abs(_playerView.Rigidbody.velocity.y) <= _playerView.FlyTresh)
-        {
             _playerView.Rigidbody.AddForce(Vector2.up * _playerView.JampStartSpeed);
-        }
+        _playerView.Rigidbody.position = FrameBorder(_playerView.Rigidbody.position);
         #region animation
         if (_contactsPoler.isGrrounded)
         {
-            if(Mathf.Abs(newVelocity) > 0 || Mathf.Abs(newVelocity) < 0) Animation(Track.run, 3);
-            else Animation(Track.idle, 1);
+            if(Mathf.Abs(newVelocity) > 0 || Mathf.Abs(newVelocity) < 0) StartAnimation(Track.run, 3);
+            else StartAnimation(Track.idle, 1);
         }
         else if(Mathf.Abs(_playerView.Rigidbody.velocity.y)>_playerView.FlyTresh)
         {
-            Animation(Track.jump, 1);
+            StartAnimation(Track.jump, 1);
         }
         #endregion
     }
-    private void Animation(Track track, float cof)
+    private void StartAnimation(Track track, float cof)
     {
         _spriteAnimator.StartAnimation(_playerView.SpriteRenderer, track, true, _playerView.AnimationsSpeed * cof);
+    }
+    private Vector3 FrameBorder(Vector3 pos)
+    {
+        if (pos.x < _BorderLeft)   pos.x = _BorderLeft; 
+        if (pos.x > _BorderRight)  pos.x = _BorderRight; 
+        if (pos.y > _BorderTop)    pos.y = _BorderTop; 
+        if (pos.y < _BorderDowne)  pos.y = _BorderDowne;
+        return pos;
     }
 }

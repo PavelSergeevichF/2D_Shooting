@@ -9,8 +9,8 @@ public class Starter : MonoBehaviour
     [SerializeField]
     private PlayerView _playerView;
     private ParalaxManager _paralaxManager;
+    private CameraManager _cameraManager;
     private SpriteAnimator _spriteAnimator;
-    //private MainHeroWalker _mainHeroWalker;
     private MainHeroPhysicWalker _mainHeroPhysicWalker;
     [SerializeField]
     private SpriteAnimationConfig _spriteAnimationConfig;
@@ -19,8 +19,8 @@ public class Starter : MonoBehaviour
     {
         _paralaxManager = new ParalaxManager(_camera, _beckground.transform);
         _spriteAnimator = new SpriteAnimator(_spriteAnimationConfig);
-        //_mainHeroWalker = new MainHeroWalker(_playerView,_spriteAnimator);
         _mainHeroPhysicWalker = new MainHeroPhysicWalker(_playerView, _spriteAnimator);
+        _cameraManager = new CameraManager(_camera, _playerView.transform);
         _spriteAnimator.StartAnimation(_playerView.SpriteRenderer, Track.idle, true, 5);
     }
 
@@ -28,7 +28,7 @@ public class Starter : MonoBehaviour
     {
         _paralaxManager.Update();
         _spriteAnimator.Update();
-        //_mainHeroWalker.Update();
+        _cameraManager.Update();
     }
     private void FixedUpdate()
     {

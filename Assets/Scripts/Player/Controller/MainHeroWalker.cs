@@ -4,6 +4,10 @@ public class MainHeroWalker
 {
     private const string Horizontal = nameof(Horizontal);
     private const string Vertical = nameof(Vertical);
+    private const float _BorderLeft = -16.5f;
+    private const float _BorderRight = 24.5f;
+    private const float _BorderTop = 6.0f;
+    private const float _BorderDowne = -4.0f;
 
     private float _yVelocity;
     private PlayerView _playerView;
@@ -26,9 +30,8 @@ public class MainHeroWalker
         }
         if(IsGrounded())
         {
-            if (isGoSideWay) { Animation(Track.run, 3); }
-            else { Animation(Track.idle, 1); }
-            //_spriteAnimator.StartAnimation(_playerView.SpriteRenderer, isGoSideWay ? Track.run : Track.idle, true, _playerView.AnimationsSpeed);
+            if (isGoSideWay)  StartAnimation(Track.run, 3); 
+            else StartAnimation(Track.idle, 1); 
             if(doJump && Mathf.Approximately(_yVelocity, 0))
             {
                 _yVelocity = _playerView.JampStartSpeed;
@@ -44,7 +47,7 @@ public class MainHeroWalker
             LandingCharater();
         }
     }
-    private void Animation(Track track, float cof)
+    private void StartAnimation(Track track, float cof)
     {
         _spriteAnimator.StartAnimation(_playerView.SpriteRenderer, track, true, _playerView.AnimationsSpeed* cof);
     }
@@ -66,13 +69,13 @@ public class MainHeroWalker
     }
     private void GoSideWay(float xAxisInput)
     {
-        Vector3 tmp = Vector3.right * (Time.deltaTime * _playerView.WalkSpeed * (xAxisInput < 0 ? -1 : 1));
-        _playerView.transform.position += tmp;
-        tmp = _playerView.transform.position;
-        if (_playerView.transform.position.x < -16.5f) { tmp.x = -16.5f; _playerView.transform.position = tmp;  }
-        if (_playerView.transform.position.x > 24.5f) { tmp.x = 24.5f; _playerView.transform.position = tmp; }
-        if (_playerView.transform.position.y < -4.0f) { tmp.y = -4.0f; _playerView.transform.position = tmp; }
-        if (_playerView.transform.position.y > 6f) { tmp.y = 6f; _playerView.transform.position = tmp; }
+        Vector3 offsetPosition = Vector3.right * (Time.deltaTime * _playerView.PowerOfMovement * (xAxisInput < 0 ? -1 : 1));
+        _playerView.transform.position += offsetPosition;
+        offsetPosition = _playerView.transform.position;
+        if (_playerView.transform.position.x < _BorderLeft) { offsetPosition.x = _BorderLeft; _playerView.transform.position = offsetPosition;  }
+        if (_playerView.transform.position.x > _BorderRight) { offsetPosition.x = _BorderRight; _playerView.transform.position = offsetPosition; }
+        if (_playerView.transform.position.y < -_BorderDowne) { offsetPosition.y = -_BorderDowne; _playerView.transform.position = offsetPosition; }
+        if (_playerView.transform.position.y > _BorderTop) { offsetPosition.y = _BorderTop; _playerView.transform.position = offsetPosition; }
         _playerView.SpriteRenderer.flipX = xAxisInput > 0;
     }
 }

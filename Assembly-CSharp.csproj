@@ -65,10 +65,11 @@
     <Compile Include="Assets\Scripts\Player\Controller\MainHeroWalker.cs" />
     <Compile Include="Assets\Scripts\System\Starter.cs" />
     <Compile Include="Assets\Scripts\AnimationScript\Track.cs" />
-    <Compile Include="Assets\Scripts\AnimationScript\CustomAnimation.cs" />
-    <Compile Include="Assets\Scripts\System\Utils.cs" />
-    <Compile Include="Assets\Scripts\Player\ContactsPoler.cs" />
     <Compile Include="Assets\Scripts\Player\Controller\MainHeroPhysicWalker.cs" />
+    <Compile Include="Assets\Scripts\AnimationScript\CustomAnimation.cs" />
+    <Compile Include="Assets\Scripts\Player\ContactsPoler.cs" />
+    <Compile Include="Assets\Scripts\System\Utils.cs" />
+    <Compile Include="Assets\Scripts\Managers\CameraManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

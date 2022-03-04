@@ -19,7 +19,7 @@ public class PlayerView : MonoBehaviour
     [SerializeField] private bool  _isDownButtonJamp;
     public SpriteRenderer SpriteRenderer  => _spriteRenderer;
 
-    public float WalkSpeed  => _walkSpeed; 
+    public float PowerOfMovement  => _walkSpeed; //PowerOfMovement
     public float AnimationsSpeed  => _animationsSpeed; 
     public float JampStartSpeed  => _jampStartSpeed;  
     public float MovingTresh  => _movingTresh;  

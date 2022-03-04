@@ -1193,6 +1193,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: rafael-fonseca-tilemap-forest128x_1
       objectReference: {fileID: 0}
+    - target: {fileID: 1456213103533058038, guid: 41ad97c3c85ca1547afe89aa8235a729, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.45
+      objectReference: {fileID: 0}
+    - target: {fileID: 1456213103533058038, guid: 41ad97c3c85ca1547afe89aa8235a729, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.03
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 41ad97c3c85ca1547afe89aa8235a729, type: 3}
 --- !u!4 &143010363 stripped
@@ -6459,7 +6467,7 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 1638671056}
+  - {fileID: 1588158288}
   - {fileID: 1185627308}
   m_Father: {fileID: 0}
   m_RootOrder: 3
@@ -15193,6 +15201,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rafael-fonseca-tilemap-forest128x_3 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6687684018365386980, guid: ad18e63c8fe4a2d48aa79a5d5c4ea135, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.25
+      objectReference: {fileID: 0}
     - target: {fileID: 6687684018365386981, guid: ad18e63c8fe4a2d48aa79a5d5c4ea135, type: 3}
       propertyPath: m_FlipX
       value: 1
@@ -15487,7 +15499,7 @@ GameObject:
   - component: {fileID: 1588158290}
   - component: {fileID: 1588158292}
   m_Layer: 0
-  m_Name: Neo Geo NGCD - Metal Slug 3 - Rebel Soldier Rifle_2
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15504,7 +15516,7 @@ Transform:
   m_LocalPosition: {x: -12.65, y: -1.93, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 1638671056}
+  m_Father: {fileID: 693852556}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1588158289
@@ -15620,9 +15632,9 @@ MonoBehaviour:
   _spriteRenderer: {fileID: 1588158289}
   _collider: {fileID: 1588158291}
   _rigidbody: {fileID: 1588158290}
-  _walkSpeed: 1
+  _walkSpeed: 200
   _animationsSpeed: 3
-  _jampStartSpeed: 200
+  _jampStartSpeed: 300
   _movingTresh: 0.1
   _flyTresh: 0.3
   _groundLevel: 0.1
@@ -15819,37 +15831,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 67865272130042962, guid: 44b6b0f46131beb45b36f3194364c09f, type: 3}
   m_PrefabInstance: {fileID: 1606864302}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1638671055
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1638671056}
-  m_Layer: 0
-  m_Name: Player
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1638671056
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1638671055}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 1588158288}
-  m_Father: {fileID: 693852556}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1640189127 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2052488668328319977, guid: fdea8da476e95274885e15adf3208f89, type: 3}
@@ -17946,6 +17927,10 @@ PrefabInstance:
     - target: {fileID: 6687684018365386977, guid: ad18e63c8fe4a2d48aa79a5d5c4ea135, type: 3}
       propertyPath: m_Name
       value: rafael-fonseca-tilemap-forest128x_3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6687684018365386980, guid: ad18e63c8fe4a2d48aa79a5d5c4ea135, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.21
       objectReference: {fileID: 0}
     - target: {fileID: 6687684018365386982, guid: ad18e63c8fe4a2d48aa79a5d5c4ea135, type: 3}
       propertyPath: m_RootOrder
