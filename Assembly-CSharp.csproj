@@ -59,6 +59,7 @@
     <Compile Include="Assets\Scripts\AnimationScript\SpritesSequence.cs" />
     <Compile Include="Assets\Scripts\AnimationScript\SpriteAnimationConfig.cs" />
     <Compile Include="Assets\Scripts\Block\BlockView.cs" />
+    <Compile Include="Assets\Scripts\Managers\CameraManager.cs" />
     <Compile Include="Assets\Scripts\AnimationScript\SpriteAnimator.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerView.cs" />
     <Compile Include="Assets\Scripts\Managers\ParalaxManager.cs" />
@@ -69,7 +70,8 @@
     <Compile Include="Assets\Scripts\AnimationScript\CustomAnimation.cs" />
     <Compile Include="Assets\Scripts\Player\ContactsPoler.cs" />
     <Compile Include="Assets\Scripts\System\Utils.cs" />
-    <Compile Include="Assets\Scripts\Managers\CameraManager.cs" />
+    <Compile Include="Assets\Scripts\AnimationScript\SpriteAnimationEnemyConfig.cs" />
+    <Compile Include="Assets\Scripts\Enemy\EnemyView.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

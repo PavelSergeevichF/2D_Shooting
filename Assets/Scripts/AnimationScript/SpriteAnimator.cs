@@ -4,11 +4,16 @@ using UnityEngine;
 public class SpriteAnimator
 {
     private SpriteAnimationConfig _config;
+    private SpriteAnimationEnemyConfig _configEnemy;
     private Dictionary<SpriteRenderer, CustomAnimation> _activeAnimations = new Dictionary<SpriteRenderer, CustomAnimation>();
 
     public SpriteAnimator(SpriteAnimationConfig config)
     {
         _config = config;
+    }
+    public SpriteAnimator(SpriteAnimationEnemyConfig config)
+    {
+        _configEnemy = config;
     }
 
     public void StartAnimation(SpriteRenderer spriteRenderer, Track track, bool loop, float speed)
