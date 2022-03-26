@@ -18,5 +18,6 @@ public enum Track
     victory,
     fallingWeapons,
     shot,
-    bullet
+    bullet,
+    dead
 }

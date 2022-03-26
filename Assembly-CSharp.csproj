@@ -56,12 +56,14 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Enemy\CharacterTipy.cs" />
     <Compile Include="Assets\Scripts\AnimationScript\SpritesSequence.cs" />
     <Compile Include="Assets\Scripts\AnimationScript\SpriteAnimationConfig.cs" />
     <Compile Include="Assets\Scripts\Block\BlockView.cs" />
     <Compile Include="Assets\Scripts\Managers\CameraManager.cs" />
     <Compile Include="Assets\Scripts\AnimationScript\SpriteAnimator.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerView.cs" />
+    <Compile Include="Assets\Scripts\Enemy\EnemyView.cs" />
     <Compile Include="Assets\Scripts\Managers\ParalaxManager.cs" />
     <Compile Include="Assets\Scripts\Player\Controller\MainHeroWalker.cs" />
     <Compile Include="Assets\Scripts\System\Starter.cs" />
@@ -70,8 +72,9 @@
     <Compile Include="Assets\Scripts\AnimationScript\CustomAnimation.cs" />
     <Compile Include="Assets\Scripts\Player\ContactsPoler.cs" />
     <Compile Include="Assets\Scripts\System\Utils.cs" />
-    <Compile Include="Assets\Scripts\AnimationScript\SpriteAnimationEnemyConfig.cs" />
-    <Compile Include="Assets\Scripts\Enemy\EnemyView.cs" />
+    <Compile Include="Assets\Scripts\AI\AiConfig.cs" />
+    <Compile Include="Assets\Scripts\AI\SimpalPatrolAiModel.cs" />
+    <Compile Include="Assets\Scripts\AI\SimplePatrolAi.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -295,6 +298,9 @@
     </Reference>
     <Reference Include="UnityEditor.UnityConnectModule">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.9f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Pathfinding.Ionic.Zip.Reduced">
+      <HintPath>Assets\AstarPathfindingProject\Plugins\DotNetZip\Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.9f1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -736,6 +742,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="AstarPathfindingProjectEditor.csproj">
+      <Project>{F0BA37FB-0299-E240-571A-AE15994890F6}</Project>
+      <Name>AstarPathfindingProjectEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="AstarPathfindingProject.csproj">
+      <Project>{306F2BB6-9505-4BF0-AD08-B8D2EC3B5CC9}</Project>
+      <Name>AstarPathfindingProject</Name>
+    </ProjectReference>
+    <ProjectReference Include="PackageToolsEditor.csproj">
+      <Project>{87CAAE18-0D6E-89F5-0A1E-A57E149A432A}</Project>
+      <Name>PackageToolsEditor</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

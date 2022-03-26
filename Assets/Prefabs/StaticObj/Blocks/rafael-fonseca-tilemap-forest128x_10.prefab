@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1469195126294065138}
   - component: {fileID: 1469195126294065141}
   - component: {fileID: 1469195126294065140}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: rafael-fonseca-tilemap-forest128x_10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
