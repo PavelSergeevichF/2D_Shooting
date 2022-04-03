@@ -1,0 +1,21 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.9f1 (108be757e447) revision 1084391'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19043.1586; Version 2009; 64bit' Language: 'ru' Physical Memory: 11663 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.9f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker6
+-projectPath
+D:/unityD/GB/2DShooting/2D_Shooting
+-logFile
+Logs/AssetImportWorker6.log
+-srvPort
+57208
+Successfully changed project path to: D:/unityD/GB/2DShooting/2D_Shooting
+D:/unityD/GB/2DShooting/2D_Shooting
+Using Asset Import Pipeline V2.

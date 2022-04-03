@@ -66,15 +66,25 @@
     <Compile Include="Assets\Scripts\Enemy\EnemyView.cs" />
     <Compile Include="Assets\Scripts\Managers\ParalaxManager.cs" />
     <Compile Include="Assets\Scripts\Player\Controller\MainHeroWalker.cs" />
+    <Compile Include="Assets\Scripts\AI\AiConfig.cs" />
     <Compile Include="Assets\Scripts\System\Starter.cs" />
+    <Compile Include="Assets\Scripts\AI\SimplePatrolAi.cs" />
     <Compile Include="Assets\Scripts\AnimationScript\Track.cs" />
     <Compile Include="Assets\Scripts\Player\Controller\MainHeroPhysicWalker.cs" />
     <Compile Include="Assets\Scripts\AnimationScript\CustomAnimation.cs" />
+    <Compile Include="Assets\Scripts\AI\SimpalPatrolAiModel.cs" />
     <Compile Include="Assets\Scripts\Player\ContactsPoler.cs" />
     <Compile Include="Assets\Scripts\System\Utils.cs" />
-    <Compile Include="Assets\Scripts\AI\AiConfig.cs" />
-    <Compile Include="Assets\Scripts\AI\SimpalPatrolAiModel.cs" />
-    <Compile Include="Assets\Scripts\AI\SimplePatrolAi.cs" />
+    <Compile Include="Assets\Scripts\Quest\QuestConfig.cs" />
+    <Compile Include="Assets\Scripts\Quest\QuestStoryConfig.cs" />
+    <Compile Include="Assets\Scripts\Quest\IQuest.cs" />
+    <Compile Include="Assets\Scripts\Quest\IQuestModel.cs" />
+    <Compile Include="Assets\Scripts\Quest\QuestObjectView.cs" />
+    <Compile Include="Assets\Scripts\Quest\Quest.cs" />
+    <Compile Include="Assets\Scripts\Quest\SwitchQuestModel.cs" />
+    <Compile Include="Assets\Scripts\Quest\QuestConfigurator.cs" />
+    <Compile Include="Assets\Scripts\Quest\IQuestStory.cs" />
+    <Compile Include="Assets\Scripts\Quest\QuestStory.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -742,17 +752,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="AstarPathfindingProjectEditor.csproj">
-      <Project>{F0BA37FB-0299-E240-571A-AE15994890F6}</Project>
-      <Name>AstarPathfindingProjectEditor</Name>
+    <ProjectReference Include="PackageToolsEditor.csproj">
+      <Project>{87CAAE18-0D6E-89F5-0A1E-A57E149A432A}</Project>
+      <Name>PackageToolsEditor</Name>
     </ProjectReference>
     <ProjectReference Include="AstarPathfindingProject.csproj">
       <Project>{306F2BB6-9505-4BF0-AD08-B8D2EC3B5CC9}</Project>
       <Name>AstarPathfindingProject</Name>
     </ProjectReference>
-    <ProjectReference Include="PackageToolsEditor.csproj">
-      <Project>{87CAAE18-0D6E-89F5-0A1E-A57E149A432A}</Project>
-      <Name>PackageToolsEditor</Name>
+    <ProjectReference Include="AstarPathfindingProjectEditor.csproj">
+      <Project>{F0BA37FB-0299-E240-571A-AE15994890F6}</Project>
+      <Name>AstarPathfindingProjectEditor</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
